@@ -1,0 +1,11 @@
+.imageElement--cover {
+    object-fit: cover;
+  }
+
+  .infoCardContainer {
+      background-color: burlywood;
+  }
+
+  .paragraph {
+      color: green;
+  }
